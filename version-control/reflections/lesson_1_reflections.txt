@@ -1,0 +1,9 @@
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+
+by pinpointing the line numbers of where the error occured
+
+
+Testing reflexions in sublime text 3 tesingg spll chek 
+AMOWS Always Move On When Stuck
+Stick to suggested software when learning, this wil help prevent confusion within code
+testing auto save... A handy prompt to save comes up, not bad
